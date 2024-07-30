@@ -1,6 +1,6 @@
 Date: Tue, 30 Jul 2024 19:35:03 +0000
-Origin: Your Repository Name
-Label: Your Repository Label
+Origin: qsv-deb-releases
+Label: QSV
 Suite: stable
 Codename: stable
 MD5Sum:
