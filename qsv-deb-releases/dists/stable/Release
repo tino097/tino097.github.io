@@ -1,4 +1,8 @@
 Date: Tue, 30 Jul 2024 19:35:03 +0000
+Origin: Your Repository Name
+Label: Your Repository Label
+Suite: stable
+Codename: stable
 MD5Sum:
  50d400af160f3e70d0b271464f06b558               38 Release
  7b24db336e0972034deae5af2dcd487e              772 main/binary-amd64/Packages
